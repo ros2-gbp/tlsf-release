@@ -1,3 +1,26 @@
+## tlsf (crystal) - 0.5.0-0
+
+The packages in the `tlsf` repository were released into the `crystal` distro by running `/usr/bin/bloom-release -n -r crystal tlsf --override-release-repository-push-url git@github.com:ros2-gbp/tlsf-release` on `Tue, 20 Nov 2018 15:32:09 -0000`
+
+The `tlsf` package was released.
+
+Version of package(s) in repository `tlsf`:
+
+- upstream repository: https://github.com/ros2/tlsf.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## tlsf (bouncy) - 0.5.0-0
 
 The packages in the `tlsf` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release --track bouncy --rosdistro bouncy tlsf --edit-track` on `Tue, 26 Jun 2018 01:38:11 -0000`
