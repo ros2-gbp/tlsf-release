@@ -1,3 +1,26 @@
+## tlsf (eloquent) - 0.5.0-1
+
+The packages in the `tlsf` repository were released into the `eloquent` distro by running `/home/jacob/.local/bin/bloom-release -r eloquent -t eloquent tlsf` on `Thu, 26 Sep 2019 23:02:21 -0000`
+
+The `tlsf` package was released.
+
+Version of package(s) in repository `tlsf`:
+
+- upstream repository: https://github.com/ros2/tlsf.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.16.1`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## tlsf (dashing) - 0.5.0-1
 
 The packages in the `tlsf` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -n -r dashing tlsf --override-release-repository-push-url git@github.com:ros2-gbp/tlsf-release` on `Sun, 14 Apr 2019 14:33:02 -0000`
