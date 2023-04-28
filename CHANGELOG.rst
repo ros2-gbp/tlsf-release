@@ -2,6 +2,9 @@
 Changelog for package tlsf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.0 (2023-04-28)
+------------------
+
 0.8.2 (2023-02-14)
 ------------------
 * [rolling] Update maintainers - 2022-11-07 (`#13 <https://github.com/ros2/tlsf/issues/13>`_)
