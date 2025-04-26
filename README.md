@@ -1,3 +1,26 @@
+## tlsf (rolling) - 0.11.0-1
+
+The packages in the `tlsf` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release tlsf -r rolling` on `Sat, 26 Apr 2025 03:02:53 -0000`
+
+The `tlsf` package was released.
+
+Version of package(s) in repository `tlsf`:
+
+- upstream repository: https://github.com/ros2/tlsf.git
+- release repository: https://github.com/ros2-gbp/tlsf-release.git
+- rosdistro version: `0.10.1-1`
+- old version: `0.10.1-1`
+- new version: `0.11.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tlsf (rolling) - 0.10.1-1
 
 The packages in the `tlsf` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling tlsf` on `Thu, 03 Oct 2024 14:50:14 -0000`
