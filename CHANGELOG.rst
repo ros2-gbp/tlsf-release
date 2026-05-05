@@ -2,6 +2,9 @@
 Changelog for package tlsf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.12.0 (2026-05-05)
+-------------------
+
 0.11.1 (2025-07-01)
 -------------------
 * update cmake requirements (`#18 <https://github.com/ros2/tlsf/issues/18>`_)
