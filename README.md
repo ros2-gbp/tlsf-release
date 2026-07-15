@@ -1,3 +1,26 @@
+## tlsf (kilted) - 0.10.2-1
+
+The packages in the `tlsf` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted tlsf` on `Wed, 15 Jul 2026 14:48:14 -0000`
+
+The `tlsf` package was released.
+
+Version of package(s) in repository `tlsf`:
+
+- upstream repository: https://github.com/ros2/tlsf.git
+- release repository: https://github.com/ros2-gbp/tlsf-release.git
+- rosdistro version: `0.10.1-2`
+- old version: `0.10.1-2`
+- new version: `0.10.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## tlsf (jazzy) - 0.9.1-2
 
 The packages in the `tlsf` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy tlsf` on `Wed, 03 Jun 2026 04:45:31 -0000`
