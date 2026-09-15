@@ -2,10 +2,21 @@
 Changelog for package tlsf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.10.2 (2026-07-15)
+0.12.1 (2026-09-15)
 -------------------
-* update cmake requirements (`#18 <https://github.com/ros2/tlsf/issues/18>`_) (`#19 <https://github.com/ros2/tlsf/issues/19>`_)
-* Contributors: mergify[bot]
+* Include what you use (`#20 <https://github.com/ros2/tlsf/issues/20>`_)
+* Contributors: Alejandro Hernández Cordero
+
+0.12.0 (2026-05-05)
+-------------------
+
+0.11.1 (2025-07-01)
+-------------------
+* update cmake requirements (`#18 <https://github.com/ros2/tlsf/issues/18>`_)
+* Contributors: mosfet80
+
+0.11.0 (2025-04-25)
+-------------------
 
 0.10.1 (2024-10-03)
 -------------------
